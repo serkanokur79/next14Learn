@@ -1,0 +1,16 @@
+.shape {
+    height: 0;
+    width: 0;
+    border-bottom: 30px solid black;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+  }
+
+  /* wrrite css for an oragnge thorus with css */
+    .thorus {
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        background-color: orange;
+        border: 10px solid black;
+    }
